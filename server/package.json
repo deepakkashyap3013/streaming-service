@@ -1,0 +1,26 @@
+{
+  "name": "streaming-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakkashyap3013/streaming-service.git"
+  },
+  "author": "Deepak Kashyap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakkashyap3013/streaming-service/issues"
+  },
+  "homepage": "https://github.com/deepakkashyap3013/streaming-service#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
